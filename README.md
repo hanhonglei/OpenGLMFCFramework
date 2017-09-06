@@ -10,3 +10,6 @@ The features are listed below.
 
 More information, please feel free to visit my personal website [here]( https://hanhonglei.github.io/).
 
+----
+
+- This project is under [GNU GENERAL PUBLIC LICENSE](https://www.gnu.org/licenses/), please check it in the root folder.
